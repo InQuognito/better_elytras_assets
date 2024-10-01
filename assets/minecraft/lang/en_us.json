@@ -1,0 +1,31 @@
+{
+	"item.minecraft.smithing_template.upgrade": "Trim: ",
+
+	"trim_material.minecraft.amethyst": "Amethyst",
+	"trim_material.minecraft.copper": "Copper",
+	"trim_material.minecraft.diamond": "Diamond",
+	"trim_material.minecraft.emerald": "Emerald",
+	"trim_material.minecraft.gold": "Gold",
+	"trim_material.minecraft.iron": "Iron",
+	"trim_material.minecraft.lapis": "Lapis",
+	"trim_material.minecraft.netherite": "Netherite",
+	"trim_material.minecraft.quartz": "Quartz",
+	"trim_material.minecraft.redstone": "Redstone",
+
+	"trim_pattern.minecraft.coast": "Coast",
+	"trim_pattern.minecraft.dune": "Dune",
+	"trim_pattern.minecraft.eye": "Eye",
+	"trim_pattern.minecraft.host": "Host",
+	"trim_pattern.minecraft.raiser": "Raiser",
+	"trim_pattern.minecraft.rib": "Rib",
+	"trim_pattern.minecraft.sentry": "Sentry",
+	"trim_pattern.minecraft.shaper": "Shaper",
+	"trim_pattern.minecraft.silence": "Silence",
+	"trim_pattern.minecraft.snout": "Snout",
+	"trim_pattern.minecraft.spire": "Spire",
+	"trim_pattern.minecraft.tide": "Tide",
+	"trim_pattern.minecraft.vex": "Vex",
+	"trim_pattern.minecraft.ward": "Ward",
+	"trim_pattern.minecraft.wayfinder": "Wayfinder",
+	"trim_pattern.minecraft.wild": "Wild"
+}
