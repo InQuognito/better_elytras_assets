@@ -1,7 +1,7 @@
 {
 	"sources": [
 		{
-			"type": "minecraft:paletted_permutations",
+			"type": "paletted_permutations",
 			"textures": [
 				"minecraft:trims/entity/wings/bolt",
 				"minecraft:trims/entity/wings/coast",
@@ -21,7 +21,10 @@
 				"minecraft:trims/entity/wings/ward",
 				"minecraft:trims/entity/wings/wayfinder",
 				"minecraft:trims/entity/wings/wild",
-				"better_elytras:trims/entity/wings/angel"
+
+				"better_elytras:trims/entity/wings/angel",
+				"better_elytras:trims/entity/wings/dragon",
+				"better_elytras:trims/entity/wings/phantom"
 			],
 			"palette_key": "trims/color_palettes/trim_palette",
 			"permutations": {
